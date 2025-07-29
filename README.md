@@ -75,6 +75,16 @@ The Power BI dashboard provides an interactive and user-friendly interface to ex
 * **Donut Charts**: Showing the distribution of customers by credit score, number of products, and active member status.
 * **Scatter Plots**: Analyzing the relationship between balance, estimated salary, and churn.
 * **Slicers and Filters**: Allowing users to drill down into specific customer segments for a more granular analysis.
+  
+## Dashboard Preview
+
+Here are some previews of the dashboard:
+
+**KPI Overview**
+![Dashboard KPI Overview](./Snapshots/Dashboard_1.png)
+
+**Customer Churn Analysis**
+![Dashboard Churn Analysis](./Snapshots/Dashboard_2.png)
 
 ## Project Insights
 
